@@ -15,7 +15,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Order espresso drinks with milk or syrup customization",
         "Practice polite greetings and daily small talk",
@@ -59,7 +59,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Complete check-in registration and key card pickup",
         "Inquire about Wi-Fi, breakfast hours, and hotel amenities",
@@ -125,7 +125,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Practice basic self-introduction (name, background, hobbies)",
         "Express expectations and goals for the new school term",
@@ -191,7 +191,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Order meal choices (chicken, beef, vegetarian) and side snacks",
         "Select hot and cold beverages with ice/sugar preferences",
@@ -213,7 +213,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Order classic breakfast items with egg and bread style preferences",
         "Customize hot and iced morning coffee or tea",
@@ -235,7 +235,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Understand directional terms (turn left/right, go straight, cross the street)",
         "Explain distances, landmarks, and walking time estimates",
@@ -367,7 +367,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Initiate spontaneous small talk during brief workplace breaks",
         "Suggest and negotiate lunch options (cuisine, distance, budget)",
@@ -389,7 +389,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Exchange neighborly introductions and mention where you relocated from",
         "Ask about community rules, recycling schedules, and local facilities",
@@ -521,7 +521,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A1",
-      "turnLimit": 20,
+      "turnLimit": 12,
       "learningGoals": [
         "Say hello and introduce your name (\"Hello, my name is...\", \"Nice to meet you\")",
         "Ask how someone is doing (\"How are you?\", \"I am good, thank you\")",
@@ -543,7 +543,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A1",
-      "turnLimit": 20,
+      "turnLimit": 12,
       "learningGoals": [
         "Ask fruit prices using simple phrases (\"How much is an apple?\", \"How much are bananas?\")",
         "Specify quantities using numbers (\"Three apples, please\", \"One kilo\")",
@@ -565,7 +565,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A1",
-      "turnLimit": 20,
+      "turnLimit": 12,
       "learningGoals": [
         "Order basic fast food items (\"A cheeseburger and fries, please\")",
         "State drink and size choices (\"Small coke, please\", \"With ice\")",
@@ -587,7 +587,7 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A1",
-      "turnLimit": 20,
+      "turnLimit": 12,
       "learningGoals": [
         "Ask where books are located (\"Where are English books, please?\")",
         "Ask for basic assistance (\"Can you help me find this book?\")",
