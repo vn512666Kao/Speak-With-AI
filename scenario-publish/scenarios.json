@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generatedAt": "2026-09-20T09:47:10+08:00",
+  "version": 1.1,
+  "generatedAt": "2026-09-21T23:57:00+08:00",
   "count": 28,
   "scenarios": [
     {
@@ -15,13 +15,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Order espresso drinks with milk or syrup customization",
         "Practice polite greetings and daily small talk",
         "Handle payment and receipt inquiries smoothly"
       ],
-      "imageUrl": "images/scn_20260920_001.jpg",
+      "imageUrl": "images/scn_20260920_001.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Rita with dark ponytail, black-rimmed eyeglasses, barista apron behind warm coffee counter with creamy bokeh.",
       "isPreset": true
     },
@@ -37,13 +37,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Confirm flight details, seat preferences, and gate numbers",
         "Ask and answer luggage weight and baggage allowance questions",
         "Handle boarding pass and travel document procedures"
       ],
-      "imageUrl": "images/scn_20260920_002.jpg",
+      "imageUrl": "images/scn_20260920_002.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Emma with long wavy brown hair, airline ground agent uniform with silk scarf at terminal counter with creamy bokeh.",
       "isPreset": true
     },
@@ -59,13 +59,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Complete check-in registration and key card pickup",
         "Inquire about Wi-Fi, breakfast hours, and hotel amenities",
         "Ask for neighborhood dining and sightseeing recommendations"
       ],
-      "imageUrl": "images/scn_20260920_003.jpg",
+      "imageUrl": "images/scn_20260920_003.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Zoe with long wavy hair, hospitality vest and golden name badge in luxury boutique lobby with creamy bokeh.",
       "isPreset": true
     },
@@ -87,7 +87,7 @@
         "Explain professional problem-solving and teamwork examples",
         "Ask strategic questions about team culture and growth opportunities"
       ],
-      "imageUrl": "images/scn_20260920_004.jpg",
+      "imageUrl": "images/scn_20260920_004.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with short bob hair, executive navy-blue power suit seated at modern boardroom table with creamy bokeh.",
       "isPreset": true
     },
@@ -103,13 +103,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Inquire about entrée recommendations and wine pairings",
         "Specify dietary preferences, doneness, and allergen questions",
         "Ask politely for the check and clarify service charge details"
       ],
-      "imageUrl": "images/scn_20260920_005.jpg",
+      "imageUrl": "images/scn_20260920_005.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Zoe with long hair, black and gold dining uniform holding menu binder in warm candlelit restaurant with creamy bokeh.",
       "isPreset": true
     },
@@ -125,13 +125,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Practice basic self-introduction (name, background, hobbies)",
         "Express expectations and goals for the new school term",
         "Ask polite introductory questions to teachers and classmates"
       ],
-      "imageUrl": "images/scn_20260920_006.jpg",
+      "imageUrl": "images/scn_20260920_006.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Rita with dark ponytail, black-rimmed eyeglasses, wearing teal cardigan in warm sunny classroom, character occupies 50% height.",
       "isPreset": true
     },
@@ -147,13 +147,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Describe lost item appearance, color, brand, and contents",
         "Explain time, location, and circumstances of the incident",
         "Request a formal police report copy and confirm follow-up steps"
       ],
-      "imageUrl": "images/scn_20260920_007.jpg",
+      "imageUrl": "images/scn_20260920_007.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair, dark blue police uniform and silver badge behind police service desk, character occupies 50% height.",
       "isPreset": true
     },
@@ -169,13 +169,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Catch up on career changes, current jobs, and life updates",
         "Reminisce about shared school memories and mutual friends",
         "Make casual plans to stay in touch or meet again"
       ],
-      "imageUrl": "images/scn_20260920_008.jpg",
+      "imageUrl": "images/scn_20260920_008.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Emma with long wavy brown hair, cozy knit sweater sitting at rustic cafe table, character occupies 50% height.",
       "isPreset": true
     },
@@ -191,13 +191,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Order meal choices (chicken, beef, vegetarian) and side snacks",
         "Select hot and cold beverages with ice/sugar preferences",
         "Request cabin comfort items such as blankets, pillows, or water"
       ],
-      "imageUrl": "images/scn_20260920_009.jpg",
+      "imageUrl": "images/scn_20260920_009.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Zoe with layered wavy hair, airline uniform and silk neck scarf beside meal trolley in airplane aisle, character occupies 50% height.",
       "isPreset": true
     },
@@ -213,13 +213,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Order classic breakfast items with egg and bread style preferences",
         "Customize hot and iced morning coffee or tea",
         "Engage in lighthearted morning pleasantries and pay the check"
       ],
-      "imageUrl": "images/scn_20260920_010.jpg",
+      "imageUrl": "images/scn_20260920_010.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Rita with dark ponytail and black-rimmed eyeglasses, striped apron behind warm wooden diner counter, character occupies 50% height.",
       "isPreset": true
     },
@@ -235,13 +235,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Understand directional terms (turn left/right, go straight, cross the street)",
         "Explain distances, landmarks, and walking time estimates",
         "Recommend local scenic spots and highlight helpful navigation tips"
       ],
-      "imageUrl": "images/scn_20260920_011.jpg",
+      "imageUrl": "images/scn_20260920_011.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Emma with long wavy brown hair, pastel windbreaker holding map on cobblestone city corner, character occupies 50% height.",
       "isPreset": true
     },
@@ -257,13 +257,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Debrief on daily workday accomplishments and challenges",
         "Discuss dinner, gym, hobby, or weekend plans casually",
         "Use natural conversational transitions and friendly sign-offs"
       ],
-      "imageUrl": "images/scn_20260920_012.jpg",
+      "imageUrl": "images/scn_20260920_012.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Zoe with layered wavy hair, olive blazer and tote bag in modern glass office building lobby at sunset, character occupies 50% height.",
       "isPreset": true
     },
@@ -285,7 +285,7 @@
         "Articulate technical blockers clearly and propose action items",
         "Negotiate realistic timelines and sprint delivery commitments"
       ],
-      "imageUrl": "images/scn_20260920_013.jpg",
+      "imageUrl": "images/scn_20260920_013.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair, navy suit holding digital tablet in agile meeting room with Kanban board, character occupies 50% height.",
       "isPreset": true
     },
@@ -307,7 +307,7 @@
         "Advocate for extended payment terms (Net-30 / Net-60) and delivery timelines",
         "Employ tactful commercial bargaining strategies without hurting relationships"
       ],
-      "imageUrl": "images/scn_20260920_014.jpg",
+      "imageUrl": "images/scn_20260920_014.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair in charcoal suit seated across boardroom table with contracts, character occupies 50% height.",
       "isPreset": true
     },
@@ -329,7 +329,7 @@
         "Propose constructive alternatives (shifting deadlines, delegating, phased delivery)",
         "Maintain collaborative rapport while setting professional workplace boundaries"
       ],
-      "imageUrl": "images/scn_20260920_015.jpg",
+      "imageUrl": "images/scn_20260920_015.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair in pinstripe suit holding leather portfolio in executive office, character occupies 50% height.",
       "isPreset": true
     },
@@ -345,13 +345,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Use natural opening icebreaker lines in casual social settings",
         "Connect through common friends, party vibes, and shared interests",
         "Keep conversations fluid with open-ended questions and humor"
       ],
-      "imageUrl": "images/scn_20260920_016.jpg",
+      "imageUrl": "images/scn_20260920_016.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Zoe with layered wavy hair, rose-gold cocktail dress holding drink in party lounge with fairy lights, character occupies 50% height.",
       "isPreset": true
     },
@@ -367,13 +367,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Initiate spontaneous small talk during brief workplace breaks",
         "Suggest and negotiate lunch options (cuisine, distance, budget)",
         "Build friendly camaraderie with colleagues outside formal meetings"
       ],
-      "imageUrl": "images/scn_20260920_017.jpg",
+      "imageUrl": "images/scn_20260920_017.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Rita with dark ponytail, black-rimmed eyeglasses holding coffee mug in office pantry, character occupies 50% height.",
       "isPreset": true
     },
@@ -389,13 +389,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "A2",
-      "turnLimit": 16,
+      "turnLimit": 14,
       "learningGoals": [
         "Exchange neighborly introductions and mention where you relocated from",
         "Ask about community rules, recycling schedules, and local facilities",
         "Accept or RSVP to neighborhood gatherings and social invitations"
       ],
-      "imageUrl": "images/scn_20260920_018.jpg",
+      "imageUrl": "images/scn_20260920_018.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Emma with long wavy brown hair, denim jacket waving in front of suburban porch and garden, character occupies 50% height.",
       "isPreset": true
     },
@@ -411,13 +411,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Express heartfelt empathy and active listening phrases",
         "Reassure a friend's professional self-worth and offer emotional validation",
         "Discuss forward-looking career next steps and practical support gently"
       ],
-      "imageUrl": "images/scn_20260920_019.jpg",
+      "imageUrl": "images/scn_20260920_019.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Emma with long wavy brown hair looking touched by empathy on park bench under autumn trees, character occupies 50% height.",
       "isPreset": true
     },
@@ -433,13 +433,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Describe physical symptoms, pain intensity (scale of 1-10), and location",
         "Detail symptom duration, triggers, and any medication taken",
         "Understand medical diagnoses, prescription instructions, and follow-up care"
       ],
-      "imageUrl": "images/scn_20260920_020.jpg",
+      "imageUrl": "images/scn_20260920_020.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Rita with dark ponytail, black-rimmed eyeglasses, white medical coat and stethoscope in clinic, character occupies 50% height.",
       "isPreset": true
     },
@@ -455,13 +455,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Report exact breakdown location using highway exits, mile markers, or landmarks",
         "Explain vehicle malfunction symptoms (overheating, flat tire, warning lights)",
         "Coordinate towing arrangements, replacement rental car, and insurance coverage"
       ],
-      "imageUrl": "images/scn_20260920_021.jpg",
+      "imageUrl": "images/scn_20260920_021.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair, headset and support vest at dispatch console, character occupies 50% height.",
       "isPreset": true
     },
@@ -477,13 +477,13 @@
       "voiceGender": "female",
       "voiceId": null,
       "defaultDifficulty": "B1",
-      "turnLimit": 20,
+      "turnLimit": 16,
       "learningGoals": [
         "Provide order details and clarify the issue (damage, wrong size, defect)",
         "Inquire about return shipping policy, prepaid return labels, and timeframes",
         "Confirm replacement dispatch or refund timeline back to the original payment method"
       ],
-      "imageUrl": "images/scn_20260920_022.jpg",
+      "imageUrl": "images/scn_20260920_022.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Zoe with layered wavy hair in stylish boutique ecommerce office holding order tablet, character occupies 50% height.",
       "isPreset": true
     },
@@ -505,7 +505,7 @@
         "Rebut counterarguments logically with evidence and real-world examples",
         "Use persuasive debate discourse markers and formal discourse connectors"
       ],
-      "imageUrl": "images/scn_20260920_023.jpg",
+      "imageUrl": "images/scn_20260920_023.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair standing at formal debate podium in auditorium, character occupies 50% height.",
       "isPreset": true
     },
@@ -527,7 +527,7 @@
         "Ask how someone is doing (\"How are you?\", \"I am good, thank you\")",
         "Ask for the other person's name politely (\"What is your name?\")"
       ],
-      "imageUrl": "images/scn_20260920_024.jpg",
+      "imageUrl": "images/scn_20260920_024.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Rita with dark ponytail, black-rimmed eyeglasses, warm welcoming smile, character occupies 50% height.",
       "isPreset": true
     },
@@ -549,7 +549,7 @@
         "Specify quantities using numbers (\"Three apples, please\", \"One kilo\")",
         "Complete basic payment pleasantries (\"Here you are\", \"Thank you\")"
       ],
-      "imageUrl": "images/scn_20260920_025.jpg",
+      "imageUrl": "images/scn_20260920_025.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Emma with long wavy brown hair, warm apron at colorful market fruit stand, character occupies 50% height.",
       "isPreset": true
     },
@@ -571,7 +571,7 @@
         "State drink and size choices (\"Small coke, please\", \"With ice\")",
         "Answer \"For here or to go?\" clearly (\"For here, please\" / \"To go, please\")"
       ],
-      "imageUrl": "images/scn_20260920_026.jpg",
+      "imageUrl": "images/scn_20260920_026.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Zoe with layered wavy hair, cashier uniform behind fast food counter, character occupies 50% height.",
       "isPreset": true
     },
@@ -593,7 +593,7 @@
         "Ask for basic assistance (\"Can you help me find this book?\")",
         "Use polite courtesy expressions (\"Excuse me\", \"Please\", \"Thank you very much\")"
       ],
-      "imageUrl": "images/scn_20260920_027.jpg",
+      "imageUrl": "images/scn_20260920_027.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair, eyeglasses, librarian card behind wooden library desk, character occupies 50% height.",
       "isPreset": true
     },
@@ -615,7 +615,7 @@
         "Synthesize complex regulatory frameworks such as the EU AI Act and voluntary risk management protocols",
         "Employ sophisticated rhetorical discourse markers, strategic concessions, and counterfactual reasoning"
       ],
-      "imageUrl": "images/scn_20260920_028.jpg",
+      "imageUrl": "images/scn_20260920_028.webp",
       "imagePrompt": "Vertical orientation (9:16 portrait aspect ratio) 1K resolution, high quality 3D stylized animated feature film illustration, modern Pixar and Disney 3D animation aesthetic, non-photorealistic. Chloe with brown short bob hair on global tech summit keynote stage with holographic displays, character occupies 50% height.",
       "isPreset": true
     }
